@@ -4,10 +4,6 @@ description: 엔트리 그래프QL API
 
 # POST
 
-## Banned 관련
-
-
-
 ## 사용 방법
 
 ```javascript
@@ -43,6 +39,8 @@ Request Sample
 ```
 
 ***
+
+## Banned 관련
 
 ### ipaddressBanned
 
