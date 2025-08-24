@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Entry Docs](README.md)
+* [GET](get.md)
